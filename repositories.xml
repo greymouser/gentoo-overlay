@@ -11,6 +11,6 @@
 
     git://github.com/greymouser/gentoo-overlay.git
 
-    <feed>https://github.com/greymouser/gentoo-overlay/commits/master.atom</feed>
+    <feed>https://github.com/greymouser/gentoo-overlay/commits/main.atom</feed>
   </repo>
 </repositories>
