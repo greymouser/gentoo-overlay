@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>greymouser</name>
+    <description lang="en">greymouser's Gentoo Overlay.</description>
+    <homepage>https://github.com/greymouser/gentoo-overlay</homepage>
+    <owner type="person">
+      <name>Armando DiCianno</name>
+      <email>armando@dicianno.org</email>
+    </owner>
+
+    git://github.com/greymouser/gentoo-overlay.git
+
+    <feed>https://github.com/greymouser/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
